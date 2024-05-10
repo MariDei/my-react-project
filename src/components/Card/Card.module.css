@@ -1,0 +1,15 @@
+.container {
+  padding: 20px;
+}
+
+.online {
+  background-color: green;
+}
+
+.offlineClass {
+  background-color: red;
+}
+
+.icon {
+  color: white;
+}
