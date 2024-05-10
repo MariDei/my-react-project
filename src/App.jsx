@@ -14,17 +14,3 @@ function App() {
 }
 
 export default App;
-
-// function FN(params) {
-// 	params.get()
-// 	params.name
-
-// 	return 100
-// }
-
-// FN({
-// 	name:'asd',
-// 	age:10,
-// 	get:()=>{},
-// 	copyData:fn(100)
-// })
